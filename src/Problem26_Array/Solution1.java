@@ -43,7 +43,7 @@ public class Solution1 {
         int i = 0;
         while (array[i] != array[array.length-1]){
             if (array[i] == array[i+1]){
-                for (int j=i;j<array.length;j++){
+                for (int j=i;j<array.length -1;j++){
                     array[j] = array[j+1];
                 }
             }else {
