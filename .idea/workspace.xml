@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="828b3cc9-aaf0-4e15-aa4f-5d6a4af6a8aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problem118_Array/Solution1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -339,12 +338,12 @@
       <workItem from="1548758964542" duration="3835000" />
       <workItem from="1548916004785" duration="5248000" />
       <workItem from="1549277507077" duration="7467000" />
-      <workItem from="1549370053295" duration="15107000" />
+      <workItem from="1549370053295" duration="15251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32753000" />
+    <option name="totallyTimeSpent" value="32897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
